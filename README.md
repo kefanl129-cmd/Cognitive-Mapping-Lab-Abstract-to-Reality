@@ -13,7 +13,6 @@ The repository is organized into two major modules:
 
 The long-term objective is to establish a reusable framework that connects mathematical theory, computational implementation, visualization, and interdisciplinary applications into a continuous learning and development platform.
 
----
 
 Abstract to Reality
 
