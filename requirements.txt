@@ -6,3 +6,13 @@ networkx
 pandas
 
 matplotlib
+
+Java
+
+Linux
+
+python
+
+html
+
+sql
