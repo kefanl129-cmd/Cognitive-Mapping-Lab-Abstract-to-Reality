@@ -347,6 +347,16 @@ implemented with
 
 ---
 
+总结：超越扩张抽象映射为流体空间，模型化抽象概念为具像化特征，1.自由态，不受原空间引力规则约束，2.无限松弛空间，流体空间不可度量。3.无限维
+
+代数扩张抽象映射为高能粒子在磁场中的物理运动，受空间引力规则约束，2.无松弛空间（被方程的根精准铺满）3.有限维
+
+---
+In conclusion:Transcend the expansion of abstract mapping to fluid space, modelize abstract concepts into concrete features. 1. Free state, not constrained by the gravitational rules of the original space. 2. Infinite slack space, the fluid space is not measurable. 3. Infinite dimension. 
+The algebraic expansion is abstractly mapped to the physical motion of high-energy particles in a magnetic field, which is constrained by the spatial gravitational rules. 2. No relaxed space (fully covered by the roots of the equation) 3. Finite dimension
+---
+
+
 ## License
 
 MIT License
